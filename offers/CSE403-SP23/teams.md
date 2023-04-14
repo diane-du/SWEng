@@ -31,6 +31,15 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 ## DubSpot
 
+DubSpot is a revolutionary schedule builder application that enables students to discover courses and develop their own schedules quickly and easily.
+
+Our code can be found on [GitHub](https://github.com/Navkiran23/DubSpot)!
+
+- Diane Du
+- Navkiran 
+- Darren
+- Denny Wu
+
 ## DuoCode
 
 ## Games In One
